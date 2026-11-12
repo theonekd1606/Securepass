@@ -1,0 +1,5 @@
+# SecurePass Dependencies
+# Core generator and strength checker run on standard Python 3.10+ library (secrets, string, math).
+# The following libraries power the desktop modern dark GUI and clipboard integration:
+customtkinter>=5.2.0
+pyperclip>=1.8.2

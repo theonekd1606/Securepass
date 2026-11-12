@@ -1,0 +1,6 @@
+{
+  "name": "SecurePass – Secure Random Password Generator",
+  "description": "Desktop-grade cryptographically secure password generator featuring customizable length (8-128), character category validation, ambiguous character exclusion, visual strength analysis, and memory-only history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
